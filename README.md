@@ -1,2 +1,2 @@
 # phase-generator
-Phase generator for the card game Phase10.
+Phase generator for the card game Phase10. WIP.
